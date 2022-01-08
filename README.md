@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+This account is for my personal projects.
 <!--
 **Simon536/Simon536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
