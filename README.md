@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-This account is for my personal projects.
-
 - 🔭 I’m currently working on converting the microservices on my Raspberry Pi server to run in Docker containers, with a Portainer management interface.
 - 🌱 I’m currently learning about using GitHub Actions for CI and testing.
 
